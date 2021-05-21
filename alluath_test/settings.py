@@ -115,8 +115,8 @@ DATABASES = {
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_USE_TLS = True
 EMAIL_PORT = 587
-EMAIL_HOST_USER = 'testforrapttech@gmail.com'
-EMAIL_HOST_PASSWORD = 'rapttech53'
+EMAIL_HOST_USER = 'yourmail@gmail.com'
+EMAIL_HOST_PASSWORD = 'yourpassword'
 DEFAULT_FROM_EMAIL = EMAIL_HOST_USER
 
 # Password validation
